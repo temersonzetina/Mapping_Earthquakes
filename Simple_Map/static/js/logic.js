@@ -1,5 +1,5 @@
 // Add console.log to check to see if our code is working.
-console.log("working");
+console.log("worrrking");
 
 // Create the map object with a center and zoom level. This is the geographical center of the US, FYI.
 // The "L.map" is saying "Leaflet, make me a map, placed in the right div tag.
@@ -14,5 +14,4 @@ attribution: 'Map data © <a href="https://www.openstreetmap.org/">OpenStreetMap
 
 // Then we add our 'graymap' tile layer to the map.
 streets.addTo(map);
-
 
